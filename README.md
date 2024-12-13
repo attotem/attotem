@@ -7,7 +7,6 @@ Hello! My name is **Vitaliy**.
 
 ---
 
----
 
 ### 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-333?logo=html5&logoColor=E34F26)
@@ -26,7 +25,6 @@ Hello! My name is **Vitaliy**.
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=attotem&show_icons=true&theme=dark&count_private=true" alt="attotem's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=attotem&layout=compact&theme=dark" alt="attotem's top languages"/>
 </p>
 
