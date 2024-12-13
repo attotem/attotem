@@ -24,9 +24,13 @@ Hello! My name is **Vitaliy**.
 ---
 
 ### 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=attotem&layout=compact&theme=dark" alt="attotem's top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=attotem&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=attotem&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=attotem&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
 
 ---
 
