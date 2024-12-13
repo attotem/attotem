@@ -1,9 +1,7 @@
 
 
-# Hi there! 👋 Welcome to my GitHub profile
 
-### ✨ About Me
-Hello! My name is **Vitaliy**.
+Hello! My name is Vitaliy. I'm a frontend developer at LeetSoft.
 
 ---
 
