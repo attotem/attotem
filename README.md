@@ -21,13 +21,16 @@ Hello! My name is **Vitaliy**.
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?logo=typescript&logoColor=3178C6)
 ![Figma](https://img.shields.io/badge/-Figma-333?logo=figma&logoColor=F24E1E)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=attotem&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=attotem&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=attotem&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 
