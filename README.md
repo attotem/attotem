@@ -25,9 +25,6 @@ Hello! My name is **Vitaliy**.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=attotem&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
-
-### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=attotem&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
@@ -36,7 +33,6 @@ Hello! My name is **Vitaliy**.
 
 ---
 
-### 💬 Let’s Connect!
 - **LinkedIn:** [Vitalii Shynkarenko](https://www.linkedin.com/in/vitalii-shynkarenko-4a24a529b/)
 - **Email:** [vshinkarenko21@gmail.com](mailto:vshinkarenko21@gmail.com)
 
