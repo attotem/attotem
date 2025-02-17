@@ -24,11 +24,6 @@ Hello! My name is Vitaliy. I'm a frontend developer at LeetSoft.
 </p>
 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=attotem&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
-
 ---
 
 - **LinkedIn:** [Vitalii Shynkarenko](https://www.linkedin.com/in/vitalii-shynkarenko-4a24a529b/)
